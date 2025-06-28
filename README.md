@@ -1,6 +1,14 @@
-# brainrot-generator
+# brainrot-reel-generator
 
 This is an end-to-end brainrot video generation pipeline which does targeted campaigns on Instagram using the [Instagram DM MCP](https://github.com/trypeggy/instagram_dm_mcp) server.
+
+Its purpose is to create short form content (reels, YT shorts) from long form content with a gameplay below (which is the popular trend). It finds key highlights (mic-drop moments, controversial statements) from the long video to convert into short form content, ranging from 10s to a minute.
+
+It exposes this functionaliy via a FastAPI server which can be used from the beautiful React frontend.
+
+Once the video is generated, it can be uploaded on Youtube Shorts and shared to followers for campaigning using the Instagram DM MCP server.
+
+Example generated short: https://www.youtube.com/shorts/U6531MvLILY
 
 ### Architecture
 
