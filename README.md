@@ -8,7 +8,8 @@ It exposes this functionaliy via a FastAPI server which can be used from the bea
 
 Once the video is generated, it can be uploaded on Youtube Shorts and shared to followers for campaigning using the Instagram DM MCP server.
 
-Example generated short: https://www.youtube.com/shorts/U6531MvLILY
+Example generated short: https://www.youtube.com/shorts/DkuuFOUQnt4 from full video: https://www.youtube.com/watch?v=v5KnM5KxcIM
+
 
 ### Architecture
 
